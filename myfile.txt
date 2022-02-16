@@ -1,3 +1,8 @@
+##AWS_DUMB
+
+https://quizlet.com/144321056/aws-certified-solutions-architect-associate-practice-questions-flash-cards/
+
+
 ##docker error kubernetes
 
 sudo nano  /lib/systemd/system/docker.service
